@@ -1,6 +1,9 @@
 <h2 align="center" style="color:#005fbc">Reverse Engineering - Let's build and understand.</h2>
 
-<video src="https://github.com/mhmtbsrglu/tiktok/raw/reverse-engineering/howitswork.mp4" />
+
+https://github.com/mhmtbsrglu/tiktok/assets/99546413/6ea6028c-fdf9-461c-8ac9-965835a912a4
+
+
 
 <br/>
 <br/>
